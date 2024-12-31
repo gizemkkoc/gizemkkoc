@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @gizemkkoc</h1>
 <h3 align="center">I’m interested in computer science.</h3>
 
-- 🔭 I’m currently working on **@StartupBridge**
+- 🔭 I’m currently working on **@StartupBridge** project
 
 - 🤝 I’m looking for help with **Data science and Software**
 
