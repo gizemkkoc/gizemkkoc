@@ -5,7 +5,8 @@
 
 - 🤝 I’m looking for help with **Data science and Software**
 
-- 📫 How to reach me **gizemkoc1795@gmail.com**
+-  📫 You can reach me with my e mail address (gizemkoc1795@gmail.com) and with my Linkedln account (https://www.linkedin.com/in/gizem-koc/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
